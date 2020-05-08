@@ -1,2 +1,2 @@
 # numworks-pong
-It's the game pong dor numworks calculator
+It's the game pong for numworks calculator
